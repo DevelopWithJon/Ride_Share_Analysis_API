@@ -1,9 +1,10 @@
-
+## Author Information
 | Ride Share Web Application ||
 | ------------- | ------------- |
-| Project Description  | Web application for Data Scientist and traders to interact with data too big to send |
+| Project Description  | Web application for Data Scientist and \n traders to interact with data too big to send |
 | Author  | Jonathan Baptiste  |
 | Author Email  | Joey.baptiste@gmail.com  |
+| Author Social | [LinkedIn](https://www.linkedin.com/in/baptiste-inc/) |
 
 ## Web Applications
 
