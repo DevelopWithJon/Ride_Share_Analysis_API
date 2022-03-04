@@ -1,7 +1,3 @@
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 | Ride Share Web Application ||
 | ------------- | ------------- |
