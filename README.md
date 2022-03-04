@@ -17,6 +17,8 @@ The
 
 The [chart builder app](https://ridesharecharts.anvil.app/) allows user to group, filter and add plotting parameters the subsection of the data and returns an image of the desired chart. By using the drop downs to select different parameters the pressing the respective "morph" button, users can easily generate a query that is sent to the Jupyter notebook. The query is used to build the plot and returns the image back to the users. The parameters correlate with a few of the pandas plot method for a dataframe.
 
+[Chart](https://github.com/Joeybaptiste11/Ride_Share_Analysis_API/blob/main/Chart%20parameters.PNG)
+
 ## Project Details
 
 There was a lot I wanted to do with this project, given its open nature I could have approached it 100 different ways. I chose to highlight my skills in building functions in python and developing web applications and APIs. I made this decision based on the time allowed for this project, the size of the data, the open nature of the prompt, and the "messiness" of the data.
