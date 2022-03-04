@@ -1,3 +1,8 @@
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 | Ride Share Web Application |
 | ------------- | ------------- |
 | Project Description  | Web application for Data Scientist and traders to interact with data too big to send |
