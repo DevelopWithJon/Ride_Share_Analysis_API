@@ -1,5 +1,8 @@
 <p align="center">
-  ## Author Information </p>
+  <h1>
+  ## Author Information 
+    </h1>
+    </p>
 | Ride Share Web Application ||
 | ------------- | ------------- |
 | Project Description  | Web application for Data Scientist and <br> Traders to interact with data too big to send |
