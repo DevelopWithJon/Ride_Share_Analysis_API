@@ -11,7 +11,7 @@
 ### Statistical Analysis
 
 The
-[statisitcal analysis app](https://https://ridesharestats.anvil.app/) allows users to select a specific ride type they are interested in learning getting a stastical analysis on very quickly. Powered by Pandas this tool allows users to get a common stastics like mean, sum, std, min and max values and more.
+[statisitcal analysis app](https://ridesharestats.anvil.app/) allows users to select a specific ride type they are interested in learning getting a stastical analysis on very quickly. Powered by Pandas this tool allows users to get a common stastics like mean, sum, std, min and max values and more.
 
 
 ![Stats](https://github.com/Joeybaptiste11/Ride_Share_Analysis_API/blob/main/Statistics.PNG?raw=true)
