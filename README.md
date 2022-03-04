@@ -1,4 +1,4 @@
-## Author Information
+<div align="center"> ## Author Information </div>
 | Ride Share Web Application ||
 | ------------- | ------------- |
 | Project Description  | Web application for Data Scientist and <br> Traders to interact with data too big to send |
