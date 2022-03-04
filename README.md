@@ -1,5 +1,6 @@
 # Ride Share Analysis and API 
-##Author Information 
+
+## Author Information 
 
 | Ride Share Web Application ||
 | ------------- | ------------- |
