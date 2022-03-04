@@ -13,11 +13,17 @@
 The
 [statisitcal analysis app](https://https://ridesharestats.anvil.app/) allows users to select a specific ride type they are interested in learning getting a stastical analysis on very quickly. Powered by Pandas this tool allows users to get a common stastics like mean, sum, std, min and max values and more.
 
+
+![Stats](https://github.com/Joeybaptiste11/Ride_Share_Analysis_API/blob/main/Statistics.PNG?raw=true)
+
+
 ### Chart Builder
 
 The [chart builder app](https://ridesharecharts.anvil.app/) allows user to group, filter and add plotting parameters the subsection of the data and returns an image of the desired chart. By using the drop downs to select different parameters the pressing the respective "morph" button, users can easily generate a query that is sent to the Jupyter notebook. The query is used to build the plot and returns the image back to the users. The parameters correlate with a few of the pandas plot method for a dataframe.
 
+
 ![Chart](https://github.com/Joeybaptiste11/Ride_Share_Analysis_API/blob/main/Chart%20parameters.PNG?raw=true)
+
 
 ## Project Details
 
