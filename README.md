@@ -1,7 +1,6 @@
+# Ride Share Analysis and API 
+##Author Information 
 
-  <h1 style="text-align:center">
-  Author Information 
-    </h1>
 | Ride Share Web Application ||
 | ------------- | ------------- |
 | Project Description  | Web application for Data Scientist and <br> Traders to interact with data too big to send |
